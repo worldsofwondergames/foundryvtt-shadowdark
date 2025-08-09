@@ -1,7 +1,7 @@
 {
 	"id": "shadowdark",
-	"title": "Shadowdark RPG",
-	"description": "A system for playing the Shadowdark RPG from Arcane Library",
+	"title": "Shadowdark RPG (WOW Hack)",
+	"description": "A system for playing the Shadowdark RPG from Arcane Library - Worlds of Wonder hack",
 	"version": "3.6.0",
 	"compatibility": {
 		"minimum": "13",
@@ -30,6 +30,11 @@
 			"name": "Chris Powell",
 			"github": "https://github.com/chrpow",
 			"discord": "chrpow"
+		},
+		{
+			"name": "Jeff Barnes",
+			"github": "https://github.com/worldsofwondergames",
+			"discord": "murderhobo6226"
 		}
 	],
 	"esmodules": ["shadowdark-compiled.mjs"],
