@@ -4,6 +4,18 @@ scratch/
 system/css/
 system/i18n/
 system/packs/
+.idea/
+.vs/
+
+npm-debug.log
+
+# Foundry
+*.lock
+jsconfig.json
+foundry
+
+build/
+.history
 
 .env
 *.code-workspace
