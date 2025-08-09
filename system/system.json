@@ -9,7 +9,7 @@
 	},
 	"url": "https://github.com/worldsofwondergames/foundryvtt-shadowdark",
 	"manifest": "https://raw.githubusercontent.com/worldsofwondergames/foundryvtt-shadowdark/refs/heads/develop/system/system.json",
-	"download": "https://raw.githubusercontent.com/worldsofwondergames/foundryvtt-shadowdark/refs/heads/develop/system/shadowdark.zip",
+	"download": "https://github.com/worldsofwondergames/megs/zipball/develop/",
 	"authors": [
 		{
 			"name": "Paul Maskelyne",
